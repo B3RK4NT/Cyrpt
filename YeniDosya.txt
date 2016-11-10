@@ -1,1 +1,3 @@
-Merhaba Git!
+Merhaba Git!!!
+
+Hata fix
